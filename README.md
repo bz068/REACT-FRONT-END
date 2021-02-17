@@ -5,3 +5,5 @@ private routes,
 navbar, register and login forms.
 
 full functionality integrated with backend
+
+styles with bootstrap
